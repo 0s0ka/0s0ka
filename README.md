@@ -1,7 +1,7 @@
-## Howdy! <img src="https://tenor.com/view/papodez-ouvir-musica-headphone-42-quarenta-e-dois-gif-15359868.gif" height='40' width="60">
-*My name is Liubov Osokina and I'm a Frontend Developer. Blah-blah-blah-blah-blah. Happy Coding!* <img src="https://tenor.com/view/tanec-gif-20073972.gif" height='40'> 
+## Howdy! <img src="https://tenor.com/view/papodez-ouvir-musica-headphone-42-quarenta-e-dois-gif-15359868.gif" height='40' width="55">
+*My name is Liubov Osokina and I'm a Frontend Developer. Blah-blah-blah-blah-blah. Happy Coding!* <img src="https://tenor.com/view/tanec-gif-20073972.gif" height='40' width="55">
 
-### Techs & Tools I use <img src="https://tenor.com/view/gamer-kolobok-icq-gif-19638151.gif" height='45'>
+### Techs & Tools I use <img src="https://tenor.com/view/gamer-kolobok-icq-gif-19638151.gif" height='45' width="55">
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,5 +27,5 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Some stats for motivate myself <img src="https://tenor.com/view/party-time-gif-19936834.gif" height='40'>
+### Some stats for motivate myself <img src="https://tenor.com/view/party-time-gif-19936834.gif" height='40' width="55">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0s0ka&layout=donut&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
