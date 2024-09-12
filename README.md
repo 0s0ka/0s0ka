@@ -1,7 +1,7 @@
-## Howdy! <img src="https://tenor.com/view/papodez-ouvir-musica-headphone-42-quarenta-e-dois-gif-15359868.gif" height='40' width="55">
+## Howdy! <img src="https://tenor.com/view/papodez-ouvir-musica-headphone-42-quarenta-e-dois-gif-15359868.gif" height='40' width="50">
 *My name is Liubov Osokina and I'm a Frontend Developer. Blah-blah-blah-blah-blah. Happy Coding!* <img src="https://tenor.com/view/tanec-gif-20073972.gif" height='40' width="55">
 
-### Techs & Tools I use <img src="https://tenor.com/view/gamer-kolobok-icq-gif-19638151.gif" height='45' width="55">
+### Techs & Tools I use <img src="https://tenor.com/view/gamer-kolobok-icq-gif-19638151.gif" height='45' width="75">
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
