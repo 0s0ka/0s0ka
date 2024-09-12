@@ -1,4 +1,4 @@
-## Howdy! <img src="https://tenor.com/view/papodez-ouvir-musica-headphone-42-quarenta-e-dois-gif-15359868.gif" height='40'>
+## Howdy! <img src="https://tenor.com/view/papodez-ouvir-musica-headphone-42-quarenta-e-dois-gif-15359868.gif" height='40' width="60>
 *My name is Liubov Osokina and I'm a Frontend Developer. Blah-blah-blah-blah-blah. Happy Coding!* <img src="https://tenor.com/view/tanec-gif-20073972.gif" height='40'> 
 
 ### Techs & Tools I use <img src="https://tenor.com/view/gamer-kolobok-icq-gif-19638151.gif" height='45'>
