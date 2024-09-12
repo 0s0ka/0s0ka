@@ -28,4 +28,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Some stats for motivate myself <img src="https://tenor.com/view/party-time-gif-19936834.gif" height='40'>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0s0ka&layout=donut&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0s0ka&layout=donut&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
